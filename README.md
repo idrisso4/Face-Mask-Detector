@@ -1,4 +1,4 @@
-# Mask-Detector
+# Face-Mask-Detector
 
 A model to detect face masks in real-time video streams and calculates the number of persons without masks in the video stream.
 I used haar cascade in open cv to detect and extract faces.
