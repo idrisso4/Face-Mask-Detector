@@ -6,4 +6,5 @@ Then I have done data augmentation to these faces and built a model with transfe
 
 ✅ Keywords: Python, MobileNet, CNN, Transfer Learning, OpenCV
 
+
 ![](download.png)
